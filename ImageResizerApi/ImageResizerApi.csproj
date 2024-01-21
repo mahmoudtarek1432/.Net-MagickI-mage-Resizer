@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="13.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\blueTestImage_1500_1000.jpg" />
+    <None Include="wwwroot\blueTestImage_1_1.jpg" />
+    <None Include="wwwroot\blueTestImage_300_300.jpg" />
+    <None Include="wwwroot\blueTestImage_600_600.jpg" />
+    <None Include="wwwroot\pink_100_100.jpg" />
+    <None Include="wwwroot\pink_1500_1000.jpg" />
+    <None Include="wwwroot\pink_1_1.jpg" />
+    <None Include="wwwroot\pink_300_300.jpg" />
+    <None Include="wwwroot\pink_600_600.jpg" />
+    <None Include="wwwroot\testImage_1500_1000.jpg" />
+    <None Include="wwwroot\testImage_1_1.jpg" />
+    <None Include="wwwroot\testImage_300_300.jpg" />
+    <None Include="wwwroot\testImage_600_600.jpg" />
+  </ItemGroup>
+
+</Project>

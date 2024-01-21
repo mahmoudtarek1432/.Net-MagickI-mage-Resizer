@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish\Resizer</_PublishTargetUrl>
+    <History>True|2024-01-15T13:49:11.1847530Z;True|2024-01-11T14:39:08.8945294+02:00;True|2024-01-11T14:38:51.6481379+02:00;True|2024-01-11T14:21:44.0874645+02:00;True|2024-01-11T13:13:32.0745264+02:00;True|2024-01-11T13:12:28.7611369+02:00;True|2024-01-11T10:26:53.5437852+02:00;True|2024-01-10T16:00:45.5995164+02:00;True|2024-01-10T15:18:41.8036087+02:00;True|2024-01-10T15:13:24.3416442+02:00;True|2024-01-10T14:01:40.5886240+02:00;False|2024-01-10T13:57:48.5711779+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
